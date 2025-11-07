@@ -1,8 +1,8 @@
 # Лабораторная работа №6
 **Тема: СИСТЕМА КОНТРОЛЯ ВЕРСИЙ**
 
-## Цель лабораторной работы: изучение базовых возможностей системы управления версиями,\
-## опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
+## Цель лабораторной работы: 
+изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 
 ## Ход работы:
 
@@ -12,85 +12,90 @@
 ### 2.	Сделать копию в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork).
 Копия была выполнена при помощи перехода в ветку (fork) и создания новой ветки (своей собственной) с названием LR6-khalikova.
 
- 
-![Рисунок 1 – Создание копии в личное хранилище](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/1.png)
-
+ <div align="center">
+![Рисунок 1 – Создание копии в личное хранилище](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/1.png)\
+ </div>
+	
 ### 3.	Клонировать свой личный удалённый репозиторий на компьютер. 
 Репозиторий был склонирован в папку (C:\Users\karina\Desktop\study\op) при помощи команды git clone и ss ключа,\
 так как я ранее использовала его для проекта и он является более безопасным (хоть и в данном задании не особо играет роли безопасность). 
 
-
-![Рисунок 2 – Клонирование репозитория](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/2.png)
-
+<div align="center">
+![Рисунок 2 – Клонирование репозитория](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/2.png)\
+ </div>
 ### 4.	Добавить файл через интерфейс GitHub. Подтянуть изменения в локальный репозиторий. Работу продолжать локально. 
 При нажатии Add file – Create new file добавлен новый файл с расширением .py. Изменения были подтянуты в локальный\ 
 репозиторий при помощи перехода в папку, где находится репозиторий и команды git pull origin.
-
-![Рисунок 3 – Создание нового файла](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/3.png)
-
-![Рисунок 4 – Обновление изменений*](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/4.png)
-
+<div align="center">
+![Рисунок 3 – Создание нового файла](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/3.png)\
+</div>
+<div align="center">
+![Рисунок 4 – Обновление изменений*](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/4.png)\
+ </div>
+ 
 ### 5.	Получить историю операций для каждой из веток. 
 
 Получение истории операций при помощи git log.
-
-![Рисунок 5 – история коммитов](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/6.png)
-
+<div align="center">
+![Рисунок 5 – история коммитов](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/6.png)\
+ </div>
 ### 6.	Просмотреть последние изменения. 
-
-![Рисунок 6 – Последнее внесенное изменение](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/6.png)
-
+<div align="center">
+![Рисунок 6 – Последнее внесенное изменение](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/6.png)\
+ </div>
 ### 7.	Выполнить слияние в ветку master, разрешив конфликт (можно использовать специальные редакторы или графический интерфейс git). 
-
-![Рисунок 7 – Создание новой ветки](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/7.png)
-
-![Рисунок 8 – Слияние веток](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/8.png)
-
+<div align="center">
+![Рисунок 7 – Создание новой ветки](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/7.png)\
+ </div>
+ <div align="center">
+![Рисунок 8 – Слияние веток](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/8.png)\
+ </div>
 ### 8.	Удалить побочную ветку после успешного слияния. 
-
-![Рисунок 9 – Удаление второй ветки](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/9.png)
-
+<div align="center">
+![Рисунок 9 – Удаление второй ветки](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/9.png)\
+ </div>
 ### 9.	Сделать изменения и зафиксировать их, оставляя комментарии, несколько раз. 
 Было создано 3 коммита, в каждом создание/изменение файлов.
-
+<div align="center">
 ![Рисунок 10 – Создание новых коммитов](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/10.png)
-
+ </div>
 ### 10.	Сделать откат коммита. 
 Был сделан откат коммита при помощи git reset. 
-
-![Рисунок 11 – Откат коммита](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/11.png)
-
+<div align="center">
+![Рисунок 11 – Откат коммита](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/11.png)\
+ </div>
 ### 11.	Создать ветку для отчёта. 
-
-![Рисунок 12 – Новая ветка для отчета](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/12.png)
-
+<div align="center">
+![Рисунок 12 – Новая ветка для отчета](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/12.png)\
+ </div>
 ### 12.	Получить историю операций в форматированном виде. Добавить её в отчёт и сделать финальную фиксацию изменений. 
 ```
-*%h — это сокращённый хеш коммита.\
-*%an — это имя автора коммита.\
-*%ar — это время, прошедшее с момента коммита.\
-*%s — это комментарий коммита.\
+* %h — сокращённый хеш коммита
+* %an — имя автора коммита
+* %ar — время, прошедшее с момента коммита
+* %s — комментарий коммита
 ```
+<div align="center">
 ![Рисунок 13 – История операций](https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/13.png)
-
+ </div>
 
 ## Лог команд
 ```
-	git clone\
-	git pull\
-	git add\
-	git commit -m\
-	git push\
-	git show\
-	git branch -b\
-	git checkout\
-	git log\
-	git merge\
-	git branch -d\
-	git reset\
-	git revert HEAD\
-	git push origin\ 
-	git log --pretty=format:"%h - %an, %ar : %s" –date=short\
+	git clone
+	git pull
+	git add
+	git commit -m
+	git push
+	git show
+	git branch -b
+	git checkout
+	git log
+	git merge
+	git branch -d
+	git reset
+	git revert HEAD
+	git push origin
+	git log --pretty=format:"%h - %an, %ar : %s" –date=short
 ```
 
 # Выводы 
