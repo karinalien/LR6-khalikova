@@ -123,6 +123,26 @@
 	git log --pretty=format:"%h - %an, %ar : %s" –date=short
 ```
 
+<div align="center">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/14.png" alt="Рисунок 14">
+ </div>
+
+ <div align="center">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/15.png" alt="Рисунок 15">
+ </div>
+
+ <div align="center">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/16.png" alt="Рисунок 16">
+ </div>
+
+<div align="center">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/17.png" alt="Рисунок 17">
+ </div>
+
+ <div align="center">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.png" alt="Рисунок 18">
+ </div>
+
 # Выводы 
 Мы научились работать с системой контроля версий Git: изменять файлы,
 создавать и откатывать коммиты, смотреть изменения, просматривать ветки и добавлять новые.
