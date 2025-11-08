@@ -112,23 +112,23 @@
 <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/14.jpg" alt="Рисунок 14">
  </div>
-
+<br/>
  <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/15.jpg" alt="Рисунок 15">
  </div>
-
+<br/>
  <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/16.jpg" alt="Рисунок 16">
  </div>
-
+<br/>
 <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/17.jpg" alt="Рисунок 17">
  </div>
-
+<br/>
  <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.jpg" alt="Рисунок 18">
  </div>
-
+<br/>
 ## Лог команд
 ```
 	git clone
