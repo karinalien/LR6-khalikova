@@ -129,6 +129,7 @@
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.jpg" alt="Рисунок 18">
  </div>
 <br/>
+
 ## Лог команд
 ```
 	git clone
