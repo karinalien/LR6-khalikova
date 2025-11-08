@@ -54,7 +54,7 @@
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/6.png" alt="Рисунок 6 – Последнее внесенное изменение">
  </div>
  
-### 7.	Выполнить слияние в ветку master, разрешив конфликт (можно использовать специальные редакторы или графический интерфейс git). 
+### 7.	Выполнить слияние в ветку master. 
 
 <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/7.png" alt="Рисунок 7 – Создание новой ветки">
@@ -104,24 +104,10 @@
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/13.png" alt="Рисунок 13 – История операций">
  </div>
 
-## Лог команд
-```
-	git clone
-	git pull
-	git add
-	git commit -m
-	git push
-	git show
-	git branch -b
-	git checkout
-	git log
-	git merge
-	git branch -d
-	git reset
-	git revert HEAD
-	git push origin
-	git log --pretty=format:"%h - %an, %ar : %s" –date=short
-```
+### 13. Искусственно создать конфликт для разрешения
+
+Было создано 2 файла с одинаковым названием, но разным содержанием в 2 ветках: master, OTCHET6.
+Конфликт при слиянии был решен через интерфейс pycharm путем изменения содержания одного из файлов. После создан новый коммит и повторно применено слияние, на этот раз успешно
 
 <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/14.png" alt="Рисунок 14">
@@ -142,6 +128,26 @@
  <div align="center">
 	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.png" alt="Рисунок 18">
  </div>
+
+## Лог команд
+```
+	git clone
+	git pull
+	git add
+	git commit -m
+	git push
+	git show
+	git branch -b
+	git checkout
+	git log
+	git merge
+	git branch -d
+	git reset
+	git revert HEAD
+	git push origin
+	git log --pretty=format:"%h - %an, %ar : %s" –date=short
+```
+
 
 # Выводы 
 Мы научились работать с системой контроля версий Git: изменять файлы,
