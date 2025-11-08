@@ -110,23 +110,23 @@
 Конфликт при слиянии был решен через интерфейс pycharm путем изменения содержания одного из файлов. После создан новый коммит и повторно применено слияние, на этот раз успешно
 
 <div align="center">
-	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/14.png" alt="Рисунок 14">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/14.jpg" alt="Рисунок 14">
  </div>
 
  <div align="center">
-	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/15.png" alt="Рисунок 15">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/15.jpg" alt="Рисунок 15">
  </div>
 
  <div align="center">
-	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/16.png" alt="Рисунок 16">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/16.jpg" alt="Рисунок 16">
  </div>
 
 <div align="center">
-	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/17.png" alt="Рисунок 17">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/17.jpg" alt="Рисунок 17">
  </div>
 
  <div align="center">
-	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.png" alt="Рисунок 18">
+	<img src="https://github.com/karinalien/LR6-khalikova/blob/OTCHET6/screenshots/18.jpg" alt="Рисунок 18">
  </div>
 
 ## Лог команд
